@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient(to left,blue,purple);
+
+}
+#text{
+    text-align: center;
+    padding-top: 30px;
+}
+.Calci{
+
+    width: 500px;
+    padding-top: 100px;
+    top: 10px;
+    margin-left: 400px;
+    position:absolute;
+    text-align: center;
+    
+
+}
+
+
+.answer{
+    border-radius: 30px;
+    border-color: aqua;
+    height: 50px;
+    width: 260px;
+    background-color: darkblue;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif ;
+    border: 2px;
+    color: azure;
+    margin-bottom: 10px;
+}
+
+.btn{
+    width: 55px;
+    height: 55px;
+    font-size: x-large;
+    border-radius: 30px;
+    margin: 2px;
+    background-color: blueviolet;
+    border-style: dotted;
+    cursor: pointer;
+    
+   
+}
+
+.OPERATOR{
+    width: 55px;
+    height: 55px;
+    border-radius: 30px;
+    margin: 2px;
+    background-color: blueviolet;
+    border-style: dotted;
+    cursor: pointer;
+    font-size:x-large;
+    
+}
+
+#ZERO{
+    width: 105px;
+    height: 55px;
+    border-radius: 30px;
+    margin: 7px;
+    background-color: blueviolet;
+    border-style: dotted;
+    cursor: pointer;
+    font-size:x-large;
+    
+}
+
+
+
